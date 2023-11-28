@@ -12,7 +12,7 @@ const Herosection = () => {
             <Image src="/head.png" alt="" 
              width={325}
              height={325}
-             className="rounded-full shadow-2xl"
+             className="rounded-full "
             />
 
         </div>
